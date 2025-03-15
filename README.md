@@ -1,6 +1,10 @@
 # ml_industrty
 Repository for the Machine Learning in Industry Practical
 
+Authors of the project:
+Nika Krivic
+Iulia Capralova
+Arsenijs Golicinis
 
 The basic structure of the repository is as follows, from the root folder:
 
